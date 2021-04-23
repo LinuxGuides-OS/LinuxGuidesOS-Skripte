@@ -11,3 +11,5 @@ Die Versionen stehen aber auch im Installer selber drinnen.
 - Installer 1.0.1 (Installiert LinuxGuidesOS 21.04:02 Alpha) > Releasedatum: 23.04.2021
 
 *Bis jetzt keine weiteren Versionen vorhanden..!*
+
+![grafik](https://user-images.githubusercontent.com/81520713/115887068-dc48d900-a451-11eb-91d6-ea346cc289a2.png)
