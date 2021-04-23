@@ -1,4 +1,5 @@
 echo -e "
+\033[31m\033[1mAchtung! Dies ist eine veraltete Version des Installers/Downloaders und wird nicht mehr unterstützt. Bitte Downloaden sie die neuste Version des Downloaders.\033[0m
 \033[32m\033[1mWillkommen bei den LinuxGuidesOS ISO Installer.\033[0m
 Wir werden LinuxGuidesOS direkt auf ihrem PC Installieren. Viel Spaß mit LinuxGuidesOS!
 
