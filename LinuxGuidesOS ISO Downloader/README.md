@@ -10,6 +10,7 @@ Die Versionen stehen aber auch im Installer selber drinnen.
 
 - Downloader 1.0.1 (Downloadet LinuxGuidesOS 21.04:02 Alpha) > Releasedatum: 23.04.2021
 - Downloader 1.1 (^) Änderungen wurden vorgenommen) > Releasedatum: 23.04.2021
+- Downloader 2.0.1 • Kompletten re-write des Downloaders > Mögliches Releasedatum: 27.04.2021
 
 *Bis jetzt keine weiteren Versionen vorhanden..!*
 
