@@ -14,4 +14,6 @@ Die Versionen stehen aber auch im Installer selber drinnen.
 
 *Bis jetzt keine weiteren Versionen vorhanden..!*
 
-![grafik](https://user-images.githubusercontent.com/81520713/115890937-cdfcbc00-a455-11eb-8d77-cd7773ae859f.png)
+![grafik](https://user-images.githubusercontent.com/81520713/116401646-c5c4c800-a82b-11eb-825f-c4ec55b8f33e.png)
+![grafik](https://user-images.githubusercontent.com/81520713/116401678-ccebd600-a82b-11eb-8c69-f96a984a21aa.png)
+- Viel besser, zwar nicht schneller, aber besser geschrieben ;D
