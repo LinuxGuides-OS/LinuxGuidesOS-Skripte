@@ -8,7 +8,7 @@ Hier siehst du alle Projekte, von LinuxGuidesOS-Skript Team
 Der ISO Downloader ermöglicht es dir, die LGOS ISO direkt über das Terminal auf deinen PC zu herunterladen.
 
 **Aktuelle Version**
-- v1.0.1 (Installiert LinuxGuidesOS 21.04:02 Alpha)
+- v2.0 (Installiert LinuxGuidesOS 21.04:02 Alpha)
 
 **Repo**  
 - https://github.com/LinuxGuides-OS/LinuxGuidesOS-Skripte/tree/main/LinuxGuidesOS%20ISO%20Downloader
