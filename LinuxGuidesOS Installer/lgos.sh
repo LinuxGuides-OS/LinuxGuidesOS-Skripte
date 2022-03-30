@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ "$EUID" -ne 0 ]
-	then echo "Bitte führe das SKript als root aus"
+	then echo "Bitte führe das Skript als root aus"
 	exit
 fi
 rm -r /root/linuxguidesos/
